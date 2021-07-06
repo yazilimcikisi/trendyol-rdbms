@@ -20,3 +20,5 @@ Proje ile birlikte edindiğim kazanımlar:
 -Java Spring JPA ile uygulama geliştirme deneyimi
 -Entity ilişkilerini 1-1, 1-*, *-* için deneyimleme, 
 -Java'da hata okuma ve anlam çıkarma(bolca :) )
+
+Sipariş verme ile ilgili tablo ve entity eklendi ama controller yazılmadı.
