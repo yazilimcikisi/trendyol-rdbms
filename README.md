@@ -1,1 +1,0 @@
-# trendyol-rdbms
